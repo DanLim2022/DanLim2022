@@ -1,4 +1,8 @@
-## Hi there 👋
+## ✨ Hi there 👋
+My name is Daniel
+Im Graduating in Computing tecnologies in brasil nowadays.
+I Have programed games in languages like C# and Python 
+Also programing sites in Javascript and frameworks like React.
 
 <!--
 **DanLim2022/DanLim2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
